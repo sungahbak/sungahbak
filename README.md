@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**sungahbak/sungahbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I'm currently learning Kotlin
+- 💼 I'm interested in taekwondo, 
+- 🛠️ I use: Python, c++
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: pasunga12@naver.com
+- Blog: (https://haveagooddaysa.tistory.com/)

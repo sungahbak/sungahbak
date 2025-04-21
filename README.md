@@ -1,9 +1,9 @@
-# 👋 Hi there! I'm [sungahbak]
+# 👋 Hi there! I'm sungahbak
 
 ## 🚀 About Me
 - 🌱 I'm currently learning Kotlin
-- 💼 I'm interested in taekwondo, 
-- 🛠️ I use: Python, c++
+- 💼 I'm interested in taekwondo
+- 🛠️ I use: Python, c++, Kotlin
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sungahbak&show_icons=true&theme=tokyonight)

@@ -17,12 +17,11 @@
 
 ## 📊 My Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungahbak&layout=compact&theme=flat-square" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungahbak&layout=compact&theme=default" alt="Top Langs" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sungahbak&show_icons=true&theme=flat-square" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sungahbak&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
----
 
 ---
 

@@ -5,9 +5,8 @@
 </p>
 
 ## 🚀 About Me
-- 🌱 I'm currently learning **Kotlin**
-- 🥋 I'm passionate about **Taekwondo**
-- 💻 I love building efficient and creative solutions.
+- 🌱 저는 최근에 코틀린과 자바스크립트를 주로 사용합니다.
+- 🥋 태권도를 좋아합니다.
 
 ## 🛠️ Tech Stack
 ### Languages

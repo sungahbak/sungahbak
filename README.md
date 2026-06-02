@@ -10,16 +10,6 @@
 
 ---
 
-## 📊 My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungahbak&layout=compact&theme=default" alt="Top Langs" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sungahbak&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
----
-
 ## 📫 Contact Me
 <a href="https://www.instagram.com/sungahbak"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="mailto:pasunga12@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>

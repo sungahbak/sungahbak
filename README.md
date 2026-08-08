@@ -8,6 +8,5 @@
 
 ## 📫 Contact Me
 <a href="mailto:pasunga12@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
-<a href="mailto:sungah@inha.edu"><img src="https://img.shields.io/badge/Inha%20Univ-004b99?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 <a href="https://haveagooddaysa.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
